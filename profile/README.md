@@ -41,7 +41,7 @@ O sistema permite consultar objetos próximos da Terra, visualizar informações
 
 ## 👥 Nossa equipe
 
-### Renan
+### Wendel
 **Backend e integração com a NASA API**
 
 Responsável pela comunicação com a API da NASA, requisições HTTP, processamento das respostas JSON e integração dos dados externos com o sistema.
@@ -61,7 +61,7 @@ Responsável pela classificação, organização e filtragem dos asteroides apre
 
 Responsável pelo desenvolvimento da interface gráfica utilizando JavaFX, FXML, CSS e Scene Builder.
 
-### Wendel
+### Renan
 **Modelagem e banco de dados**
 
 Responsável pelas classes de domínio, atributos dos asteroides, estrutura dos dados, banco de dados, JDBC e persistência.
