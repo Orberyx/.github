@@ -61,35 +61,35 @@ O sistema permite consultar objetos próximos da Terra, visualizar informações
 <tbody>
 <tr>
 <td align="center" width="140">
-<img src="./assets/team/adriel.jpeg" width="80" height="80" style="border-radius:20%;object-fit:cover;" alt="Adriel"><br><sub><b>Adriel</b></sub>
+<img src="./assets/team/adriel.jpeg" alt="Adriel"><br><sub><b>Adriel</b></sub>
 </td>
 <td valign="middle">Filtros e processamento de dados</td>
 <td valign="middle">Classificação, organização e filtragem dos asteroides apresentados pelo sistema.</td>
 </tr>
 <tr>
 <td align="center" width="140">
-<img src="./assets/team/mayrllon.jpg" width="80" height="80" style="border-radius:20%;object-fit:cover;" alt="Mayrllon"><br><sub><b>Mayrllon</b></sub>
+<img src="./assets/team/mayrllon.jpg" alt="Mayrllon"><br><sub><b>Mayrllon</b></sub>
 </td>
 <td valign="middle">Autenticação e favoritos</td>
 <td valign="middle">Sistema de login, autenticação dos usuários e gerenciamento dos asteroides adicionados aos favoritos.</td>
 </tr>
 <tr>
 <td align="center" width="140">
-<img src="./assets/team/nivea.jpeg" width="80" height="80" style="border-radius:20%;object-fit:cover;" alt="Nívea"><br><sub><b>Nívea</b></sub>
+<img src="./assets/team/nivea.jpeg" alt="Nívea"><br><sub><b>Nívea</b></sub>
 </td>
 <td valign="middle">Frontend e JavaFX</td>
 <td valign="middle">Desenvolvimento da interface gráfica utilizando JavaFX, FXML, CSS e Scene Builder.</td>
 </tr>
 <tr>
 <td align="center" width="140">
-<img src="./assets/team/renan.jpg" width="80" height="80" style="border-radius:20%;object-fit:cover;" alt="Renan"><br><sub><b>Renan</b></sub>
+<img src="./assets/team/renan.jpg" alt="Renan"><br><sub><b>Renan</b></sub>
 </td>
 <td valign="middle">Modelagem e banco de dados</td>
 <td valign="middle">Classes de domínio, atributos dos asteroides, estrutura dos dados, banco de dados, JDBC e persistência.</td>
 </tr>
 <tr>
 <td align="center" width="140">
-<img src="./assets/team/wendel.jpeg" width="80" height="80" style="border-radius:20%;object-fit:cover;" alt="Wendel"><br><sub><b>Wendel</b></sub>
+<img src="./assets/team/wendel.jpeg" alt="Wendel"><br><sub><b>Wendel</b></sub>
 </td>
 <td valign="middle">Backend e integração com a NASA API</td>
 <td valign="middle">Comunicação com a API da NASA, requisições HTTP, processamento das respostas JSON e integração dos dados externos com o sistema.</td>
