@@ -1,17 +1,17 @@
 <div align="center">
 
-<img align="center" src="./assets/banner.png" width="150">
+<img src="./assets/banner.png" width="450">
 
-# Orberyx
+# 🌌 Orberyx
 
-**Tecnologia, ciência e exploração espacial**
+**Tecnologia, ciência e exploração espacial.**
 
 <br>
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -21,95 +21,129 @@
 
 A **Orberyx** é uma startup acadêmica criada para o projeto da disciplina de **Programação Orientada a Objetos**.
 
-Nosso objetivo é desenvolver soluções utilizando programação, dados e tecnologias modernas, com foco em aplicações relacionadas à ciência e ao espaço.
+Nosso objetivo é desenvolver soluções utilizando programação, dados e tecnologias modernas, com foco em aplicações relacionadas à **ciência e ao espaço**.
+
+### 🎯 Missão
+
+Desenvolver soluções tecnológicas que integrem programação, dados e ciência de forma acessível e funcional.
+
+### 👁️ Visão
+
+Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projetos organizados, colaborativos e capazes de solucionar problemas reais.
+
+### 💎 Valores
+
+- 🤝 **Colaboração** — desenvolvimento realizado de forma conjunta e organizada;
+- 💡 **Inovação** — busca por soluções criativas e tecnologias adequadas;
+- 📚 **Aprendizado** — evolução contínua através da prática e da pesquisa;
+- 🧩 **Organização** — código, documentação e responsabilidades bem estruturados;
+- 🚀 **Tecnologia** — aplicação prática da programação na construção de soluções.
 
 <br>
 
-## ☄️ Projeto atual — AstroWatch
+---
 
-O **AstroWatch** é uma aplicação desktop desenvolvida em **JavaFX** que utiliza dados da **NASA API** para exibir asteroides que passam próximos à Terra.
-
-O sistema permite consultar objetos próximos da Terra, visualizar informações relevantes sobre eles, aplicar filtros, salvar favoritos e acessar a página oficial da NASA/JPL para mais detalhes.
-
-<br>
-
-### ✨ Principais funcionalidades
-
-| | Funcionalidade |
-|:---:|---|
-| 🔭 | Consulta de asteroides pela NASA API |
-| 📅 | Pesquisa por data |
-| ⚠️ | Identificação de asteroides potencialmente perigosos |
-| 🔎 | Filtros e ordenação |
-| 🔐 | Sistema de login |
-| ⭐ | Sistema de favoritos |
-| 💾 | Persistência em banco de dados |
-| 🔗 | Link para informações oficiais da NASA/JPL |
-
-<br>
-
-## 👥 Nossa equipe
+## 👥 Nossa Equipe
 
 <table width="100%">
-<thead>
-<tr>
-<th align="center">Membro</th>
-<th align="left">Área</th>
-<th align="left">Responsabilidade</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" width="140">
-<img src="./assets/team/adriel.jpeg" alt="Adriel"><br><sub><b>Adriel</b></sub>
-</td>
-<td valign="middle">Filtros e processamento de dados</td>
-<td valign="middle">Classificação, organização e filtragem dos asteroides apresentados pelo sistema.</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="./assets/team/mayrllon.jpg" alt="Mayrllon"><br><sub><b>Mayrllon</b></sub>
-</td>
-<td valign="middle">Autenticação e favoritos</td>
-<td valign="middle">Sistema de login, autenticação dos usuários e gerenciamento dos asteroides adicionados aos favoritos.</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="./assets/team/nivea.jpeg" alt="Nívea"><br><sub><b>Nívea</b></sub>
-</td>
-<td valign="middle">Frontend e JavaFX</td>
-<td valign="middle">Desenvolvimento da interface gráfica utilizando JavaFX, FXML, CSS e Scene Builder.</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="./assets/team/renan.jpg" alt="Renan"><br><sub><b>Renan</b></sub>
-</td>
-<td valign="middle">Modelagem e banco de dados</td>
-<td valign="middle">Classes de domínio, atributos dos asteroides, estrutura dos dados, banco de dados, JDBC e persistência.</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="./assets/team/wendel.jpeg" alt="Wendel"><br><sub><b>Wendel</b></sub>
-</td>
-<td valign="middle">Backend e integração com a NASA API</td>
-<td valign="middle">Comunicação com a API da NASA, requisições HTTP, processamento das respostas JSON e integração dos dados externos com o sistema.</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th align="center">Membro</th>
+      <th align="left">Área</th>
+      <th align="left">Responsabilidade</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="./assets/team/adriel.jpeg" width="100"><br>
+      <sub><b>Adriel</b></sub>
+    </td>
+    <td valign="middle">Filtros e processamento de dados</td>
+    <td valign="middle">
+      Classificação, organização e filtragem dos asteroides apresentados pelo sistema.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="./assets/team/mayrllon.jpg" width="100"><br>
+      <sub><b>Mayrllon</b></sub>
+    </td>
+    <td valign="middle">Autenticação e favoritos</td>
+    <td valign="middle">
+      Sistema de login, autenticação dos usuários e gerenciamento dos asteroides adicionados aos favoritos.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="./assets/team/nivea.jpeg" width="100"><br>
+      <sub><b>Nívea</b></sub>
+    </td>
+    <td valign="middle">Interface e JavaFX</td>
+    <td valign="middle">
+      Desenvolvimento da interface gráfica utilizando JavaFX, FXML e CSS.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="./assets/team/renan.jpg" width="100"><br>
+      <sub><b>Renan</b></sub>
+    </td>
+    <td valign="middle">Banco de Dados</td>
+    <td valign="middle">
+      Modelagem e estrutura do banco de dados, persistência, JDBC e implementação da camada DAO.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="./assets/team/wendel.jpeg" width="100"><br>
+      <sub><b>Wendel</b></sub>
+    </td>
+    <td valign="middle">API NASA</td>
+    <td valign="middle">
+      Comunicação com a NASA API, requisições HTTP, processamento das respostas JSON e integração dos dados externos com o sistema.
+    </td>
+  </tr>
+
+  </tbody>
 </table>
 
-## 📦 Projetos
+<br>
+
+---
+
+## 🚀 Projetos
 
 ### ☄️ AstroWatch
 
-<img align="center" src="./assets/astrowatch.png" width="150">
+<div align="center">
 
-Aplicação para consulta e acompanhamento de asteroides próximos à Terra utilizando dados fornecidos pela NASA.
+<img src="./assets/astrowatch.png" width="250">
+
+</div>
+
+O **AstroWatch** é uma aplicação desktop para consulta e acompanhamento de asteroides próximos à Terra utilizando dados fornecidos pela **NASA**.
+
+O projeto integra informações obtidas através da **NASA API** com persistência em banco de dados e uma interface gráfica desenvolvida em **JavaFX**.
 
 > 🚧 **Status:** projeto em desenvolvimento.
 
-<br>
+### ✨ Principais funcionalidades
 
-## 🛠️ Tecnologias
+- ☄️ Consulta de asteroides utilizando dados da NASA API;
+- 🔎 Pesquisa e filtragem dos objetos apresentados;
+- ⚠️ Identificação de asteroides potencialmente perigosos;
+- 🔐 Sistema de autenticação de usuários;
+- ⭐ Gerenciamento de asteroides favoritos;
+- 🗄️ Persistência de dados em banco de dados;
+- 🌐 Integração com informações oficiais fornecidas pela NASA.
+
+### 🛠️ Tecnologias utilizadas
 
 <div align="center">
 
@@ -127,4 +161,14 @@ Aplicação para consulta e acompanhamento de asteroides próximos à Terra util
 
 </div>
 
+<br>
+
 ---
+
+<div align="center">
+
+### 🌌 Orberyx
+
+**Explorando tecnologia através do conhecimento.**
+
+</div>
