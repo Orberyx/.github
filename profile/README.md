@@ -2,11 +2,7 @@
 
 <img src="./assets/banner.png">
 
-# 🌌 Orberyx
-
-**Tecnologia, ciência e exploração espacial.**
-
-<br>
+**"Tudo começa com um olhar. Antes do código, das equações e da engenharia, existe a curiosidade pura de quem olha para o céu e se pergunta o que há além. A Orberyx nasceu para transformar esse encantamento em tecnologia. Construímos pontes de código entre os dados do cosmos e a tela do usuário, provando que o conhecimento do universo não pertence apenas aos laboratórios, mas a qualquer mente curiosa com um telescópio, ou um computador."**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white)
