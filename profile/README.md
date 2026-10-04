@@ -1,37 +1,30 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="180">
-
-# 🌌 Orberyx
-
-**Tecnologia, ciência e exploração espacial.**
-
-<br>
+<img src="./assets/banner.png" alt="banner">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![NASA API](https://img.shields.io/badge/NASA_API-NeoWS-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://api.nasa.gov/)
 
 </div>
 
-<br>
-
-## 🏢 Sobre a Orberyx
+# 🏢 Sobre nós
 
 A **Orberyx** é uma startup acadêmica criada para o projeto da disciplina de **Programação Orientada a Objetos**.
 
 Nosso objetivo é desenvolver soluções utilizando programação, dados e tecnologias modernas, com foco em aplicações relacionadas à **ciência e ao espaço**.
 
-### 🎯 Missão
+## 🎯 Missão
 
 Desenvolver soluções tecnológicas que integrem programação, dados e ciência de forma acessível e funcional.
 
-### 👁️ Visão
+## 👁️ Visão
 
 Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projetos organizados, colaborativos e capazes de solucionar problemas reais.
 
-### 💎 Valores
+## 💎 Valores
 
 - 🤝 **Colaboração** — desenvolvimento realizado de forma conjunta e organizada;
 - 💡 **Inovação** — busca por soluções criativas e tecnologias adequadas;
@@ -57,6 +50,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/Adriel12179">
       <img src="./assets/team/adriel.jpeg" width="100"><br>
       <sub><b>Adriel</b></sub>
     </td>
@@ -68,6 +62,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/Mayrllon14">
       <img src="./assets/team/mayrllon.jpg" width="100"><br>
       <sub><b>Mayrllon</b></sub>
     </td>
@@ -79,6 +74,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/niveamaria11-dev">
       <img src="./assets/team/nivea.jpeg" width="100"><br>
       <sub><b>Nívea</b></sub>
     </td>
@@ -90,6 +86,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/renancardoso09-maker">
       <img src="./assets/team/renan.jpg" width="100"><br>
       <sub><b>Renan</b></sub>
     </td>
@@ -101,6 +98,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/wndelix">
       <img src="./assets/team/wendel.jpeg" width="100"><br>
       <sub><b>Wendel</b></sub>
     </td>
@@ -125,7 +123,7 @@ O **AstroWatch** é uma aplicação desktop para consulta e acompanhamento de as
 
 O projeto integra informações obtidas através da **NASA API** com persistência em banco de dados e uma interface gráfica desenvolvida em **JavaFX**.
 
-> 🚧 **Status:** projeto em desenvolvimento.
+> 🚧 **Status:** Integração de filtro de busca.
 
 ### ✨ Principais funcionalidades
 
@@ -137,32 +135,22 @@ O projeto integra informações obtidas através da **NASA API** com persistênc
 - 🗄️ Persistência de dados em banco de dados;
 - 🌐 Integração com informações oficiais fornecidas pela NASA.
 
-### 🛠️ Tecnologias utilizadas
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=flat-square&logo=java&logoColor=white)
-![FXML](https://img.shields.io/badge/FXML-5C2D91?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![NASA API](https://img.shields.io/badge/NASA%20API-0B3D91?style=flat-square&logo=nasa&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
+---
 
 <br>
 
----
-
 <div align="center">
 
-### 🌌 Orberyx
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/orberyx-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/orberyx-black.svg">
+  <img src="./assets/orberyx-black.svg" alt="Logo da Orberyx" width="400">
+</picture>
 
-**Explorando tecnologia através do conhecimento.**
+<br>
+
+<i>"Tudo começa com um olhar. Antes do código, das equações e da engenharia, existe a curiosidade pura de quem olha para o céu e se pergunta o que há além. A Orberyx nasceu para transformar esse encantamento em tecnologia. Construímos pontes de código entre os dados do cosmos e a tela do usuário, provando que o conhecimento do universo não pertence apenas aos laboratórios, mas a qualquer mente curiosa com um telescópio, ou um computador."</i>
+
+<i>Equipe Orberyx - 2026</i>
 
 </div>
