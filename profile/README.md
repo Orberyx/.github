@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="450">
+<img src="./assets/banner.png" width="180">
 
 # 🌌 Orberyx
 
@@ -120,12 +120,6 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 ## 🚀 Projetos
 
 ### ☄️ AstroWatch
-
-<div align="center">
-
-<img src="./assets/astrowatch.png" width="250">
-
-</div>
 
 O **AstroWatch** é uma aplicação desktop para consulta e acompanhamento de asteroides próximos à Terra utilizando dados fornecidos pela **NASA**.
 
