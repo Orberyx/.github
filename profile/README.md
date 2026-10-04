@@ -50,6 +50,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/Adriel12179">
       <img src="./assets/team/adriel.jpeg" width="100"><br>
       <sub><b>Adriel</b></sub>
     </td>
@@ -61,6 +62,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/Mayrllon14">
       <img src="./assets/team/mayrllon.jpg" width="100"><br>
       <sub><b>Mayrllon</b></sub>
     </td>
@@ -72,6 +74,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/niveamaria11-dev">
       <img src="./assets/team/nivea.jpeg" width="100"><br>
       <sub><b>Nívea</b></sub>
     </td>
@@ -83,6 +86,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/renancardoso09-maker">
       <img src="./assets/team/renan.jpg" width="100"><br>
       <sub><b>Renan</b></sub>
     </td>
@@ -94,6 +98,7 @@ Aplicar os conhecimentos adquiridos durante o curso no desenvolvimento de projet
 
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/wndelix">
       <img src="./assets/team/wendel.jpeg" width="100"><br>
       <sub><b>Wendel</b></sub>
     </td>
