@@ -142,8 +142,10 @@ O projeto integra informações obtidas através da **NASA API** com persistênc
   <img src="./assets/orberyx-black.svg" alt="Logo da Orberyx" width="400">
 </picture>
 
-<br><br>
+<br>
 
 <i>"Tudo começa com um olhar. Antes do código, das equações e da engenharia, existe a curiosidade pura de quem olha para o céu e se pergunta o que há além. A Orberyx nasceu para transformar esse encantamento em tecnologia. Construímos pontes de código entre os dados do cosmos e a tela do usuário, provando que o conhecimento do universo não pertence apenas aos laboratórios, mas a qualquer mente curiosa com um telescópio, ou um computador."</i>
+
+<i>Equipe Orberyx - 2026</i>
 
 </div>
